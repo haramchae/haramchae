@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haramchae
+- 🌱 I’m currently looking for a job
 - 👀 I’m interested in Game
-- 🌱 I’m currently learning C++
 - 📫 How to reach me cogkfk5@gmail.com
 
 <!---
