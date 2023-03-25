@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @haramchae
-- 🌱 I’m currently looking for a job
 - 👀 I’m interested in Game
 - 📫 How to reach me cogkfk5@gmail.com
 
