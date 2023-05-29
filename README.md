@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @haramchae
 - 👀 I’m interested in Game
-- 📫 How to reach me cogkfk5@gmail.com
+- 📫 How to reach me
+- Ohio
+- cogkfk5@gmail.com
 
 <!---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haramchae&show_icons=true&theme=radical)
