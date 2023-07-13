@@ -2,6 +2,7 @@
 - 👀 I’m interested in Game
 - 📫 How to reach me cogkfk5@gmail.com
 - Ohio
+- Engineer
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haramchae&show_icons=true&theme=radical)
